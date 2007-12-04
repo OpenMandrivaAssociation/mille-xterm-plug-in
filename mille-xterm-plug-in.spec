@@ -8,7 +8,7 @@ License:	GPL
 Group:		Networking/WWW
 URL:		http://www.revolutionlinux.com/mille-xterm/
 Source:		%{name}-%{version}.tar.bz2
-BuildRequires:	XFree86-devel
+BuildRequires:	X11-devel
 BuildRequires:	mozilla-firefox-devel
 BuildRequires:	gtk2-devel
 BuildRequires:	nspr-devel >= 2:1.0.7
