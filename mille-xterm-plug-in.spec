@@ -18,7 +18,6 @@ BuildRequires:  mozilla-firefox
 BuildRequires:  flex
 Provides:	mille-xterm-plug-in
 Requires:	mozilla-firefox
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 mille-xterm-plug-in is a Mozilla browser plugin to allow playing embedded
