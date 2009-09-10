@@ -3,7 +3,7 @@
 Summary:	Mille-Xterm Pluing for Netscape/Mozilla
 Name:		mille-xterm-plug-in
 Version:	1.0
-Release:	%mkrel 0.%{svn}.4
+Release:	%mkrel 0.%{svn}.5
 License:	GPL
 Group:		Networking/WWW
 URL:		http://www.revolutionlinux.com/mille-xterm/
