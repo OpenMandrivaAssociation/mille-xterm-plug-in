@@ -6,7 +6,7 @@ Version:	1.0
 Release:	%mkrel 0.%{svn}.5
 License:	GPL
 Group:		Networking/WWW
-URL:		http://www.revolutionlinux.com/mille-xterm/
+URL:		https://www.revolutionlinux.com/mille-xterm/
 Source:		%{name}-%{version}.tar.bz2
 BuildRequires:	X11-devel
 BuildRequires:	mozilla-firefox-devel
